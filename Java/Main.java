@@ -7,7 +7,8 @@ public class Main{
             System.out.println(" __________________________");
             System.out.println("|                          |");
             System.out.println(" --------------------------");}
-            System.out.println("Hola");
+            Runtime.getRuntime().exec("cls");
+
     }
 }
 
